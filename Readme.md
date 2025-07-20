@@ -1,5 +1,5 @@
 
-<h1 align="center">Leather Hoard</h1>
+<h1 align="center">INDIYANO</h1>
 
 <h2 align="center"> Leather Hoard is an Open Source Website built using HTML, CSS, JavaScript and Bootstrap. </h2>
 
@@ -7,7 +7,7 @@ The Leather Hoard website is a website for selling leather products. This projec
 
 The aforementioned improvements will make it easier for visitors to browse the website and place online orders for new products. Additionally, it will aid the learners in understanding the fundamental components of an e-commerce website.
 
-Visit the website: [Leather Hoard](https://leatherhoard.netlify.app/)
+Visit the website: [INDIYANO ](https://indiyano.com/)
 
 # <h3> 📌 Tech Stack</h3>
 
