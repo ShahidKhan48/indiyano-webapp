@@ -1,7 +1,7 @@
 
 <h1 align="center">INDIYANO</h1>
 
-<h2 align="center"> Leather Hoard is an Open Source Website built using HTML, CSS, JavaScript and Bootstrap. </h2>
+<h2 align="center"> indiyano  is an Open Source Website built using HTML, CSS, JavaScript and Bootstrap. </h2>
 
 The Leather Hoard website is a website for selling leather products. This project is a design template for an online store. Anyone is welcome to add a new feature to this website. _Examples_ include the sign-in page, sign-up page, product list page, product search capabilities, "Buy now" form, send messages functionality, read more/view more functionality, subscribe functionality and many more.
 
