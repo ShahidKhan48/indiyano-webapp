@@ -726,6 +726,13 @@ Style For Categories Section
   color: #898798;
 }
 
+.categories .price {
+  font-size: 18px;
+  font-weight: bold;
+  color: var(--color-pink);
+  margin-top: 10px;
+}
+
 /* --------------------------------------
 ======================================
 -------------------------------------- */
@@ -801,6 +808,20 @@ Style For New Arrivals Section
 .arrival-card .arrival-title a {
   color: #645f88;
   transition: color 0.2s ease;
+}
+
+.arrival-card .product-id {
+  font-size: 12px;
+  color: #888;
+  font-weight: 500;
+  margin-top: 5px;
+}
+
+.arrival-card .price {
+  font-size: 18px;
+  font-weight: bold;
+  color: var(--color-pink);
+  margin-bottom: 5px;
 }
 
 /* ------------------------------------
